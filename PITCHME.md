@@ -226,7 +226,7 @@ Note:
 
 - We managed to complete a few stories with the whole team mobbing.
 
----?image=template/img/mc/BlastOffV2.png&size=75%
+---?image=template/img/mc/BlastOffV2.PNG&size=75%
 @title[Release1]
 
 Note:
