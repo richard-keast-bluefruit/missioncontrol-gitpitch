@@ -156,7 +156,7 @@ Note:
 
 - Sprint 1 was in an experiment to use the Targetprocess API to display an augmented feature file, replacing tags with hyperlinks to Targetprocess Test Plans and Test Cases.
 
----?image=template/img/mc/BlastOffV1TestPlan.png&size=60%
+---?image=template/img/mc/BlastOffV1TestPlan.PNG&size=60%
 @title[Release1]
 
 Note:
