@@ -149,7 +149,7 @@ Note:
 
 ### Sprint 1
 
----?image=template/img/mc/BlastOffV1.png&size=60%
+---?image=template/img/mc/BlastOffV1.PNG&size=60%
 @title[Release1]
 
 Note:
@@ -163,7 +163,7 @@ Note:
 
 - Here's what is effectively a feature file as a Targetprocess Test Plan
 
----?image=template/img/mc/BlastOffV1TestCase1.png&size=60%
+---?image=template/img/mc/BlastOffV1TestCase1.PNG&size=60%
 @title[Release1]
 
 Note:
@@ -171,7 +171,7 @@ Note:
 - Here's a scenario as a Test Case
 - Notice it belongs to 3 Test Plans
 
----?image=template/img/mc/BlastOffV1TestCase1TestPlans.png&size=60%
+---?image=template/img/mc/BlastOffV1TestCase1TestPlans.PNG&size=60%
 @title[Release1]
 
 Note:
@@ -180,7 +180,7 @@ Note:
 - The "Feature File" Test Plan
 - The Sprint Test Plan, for the benefit of a release report
 
----?image=template/img/mc/BlastOffV1Sprint1TestPlan.png&size=60%
+---?image=template/img/mc/BlastOffV1Sprint1TestPlan.PNG&size=60%
 @title[Release1]
 
 Note:
